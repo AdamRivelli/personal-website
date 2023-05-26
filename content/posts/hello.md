@@ -6,4 +6,4 @@ draft: false
 Hi, my name is Adam Rivelli.
 This is a test image.
 
-![laptop background](/static/test-img.png)
+![laptop background](/test-img.png)
