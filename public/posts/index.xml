@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Adam&#39;s Personal Website</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Adam&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 May 2023 19:11:04 +0300</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://example.org/posts/hello/</link>
+      <pubDate>Fri, 26 May 2023 19:11:04 +0300</pubDate>
+      
+      <guid>http://example.org/posts/hello/</guid>
+      <description>Hi, my name is Adam Rivelli.</description>
+    </item>
+    
+  </channel>
+</rss>
